@@ -61,7 +61,7 @@ body {
 .text {
     width: 100%;
     height: 30rem;
-    background: rgb(28, 236, 28);
+    background: red;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -69,7 +69,7 @@ body {
 .text p {
     margin-right: 25rem;
     font-size: 2rem;
-    color: white;
+    color: rgb(28, 236, 28);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 30rem;
 }
