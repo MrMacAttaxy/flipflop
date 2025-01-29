@@ -69,8 +69,8 @@ body {
 .text p {
     margin-right: 25rem;
     font-size: 2rem;
-    color: rgb(28, 236, 28);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(214, 182, 2);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 30rem;
 }
 .navbar #download {
